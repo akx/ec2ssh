@@ -1,0 +1,6 @@
+*.egg-info
+*.py[cod]
+.idea
+.vscode
+build
+dist
